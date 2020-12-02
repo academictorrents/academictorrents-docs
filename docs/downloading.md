@@ -6,7 +6,7 @@ A [video](https://www.youtube.com/embed/mgONKmc52iI) about downloading
 We recommend the Transmission torrent client which supports all major operating systems: https://www.transmissionbt.com/
 
 
-## From the command line:
+## From the command line
 
 For downloading from the command line you can use ctorrent locally or when connected over ssh to a server.
 To install ctorrent run:
