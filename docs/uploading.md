@@ -1,12 +1,12 @@
 # Uploading
 
-There are many different ways to put data on the site. Please contact us if you are unsure how to share your data. The upload form is here: http://academictorrents.com/upload.php
+There are many different ways to put data on the site. Please contact us if you are unsure how to share your data. The upload form is here: [http://academictorrents.com/upload.php](http://academictorrents.com/upload.php)
 
 Note that we don't host your data directly. Although we do manage a network of donated servers. A torrent file is uploaded to the site and then hosting nodes (seeds) register with the tracker as places to download the data from. A Backup URL can be used in place of hosting the file using BitTorrent that will allow the benefits of our platform of servers that will mirror the data.
 
 ## Tutorials
 
-Academic Torrents - How to upload for researchers https://www.youtube.com/watch?v=PVsTwlYxGPo
+Academic Torrents - How to upload for researchers [https://www.youtube.com/watch?v=PVsTwlYxGPo](https://www.youtube.com/watch?v=PVsTwlYxGPo)
 
 ## Backup URLs
 
@@ -32,7 +32,7 @@ Most webservers will support this (such as Apache and NGNIX) but less featured w
 
 Almost all paid providers work work perfectly as Backup URLs while almost all free hosting provders (Google Drive, Dropbox) do not work as Backup URLs. Here is a list of free providers which will provide HTTP URLs that can be used as Backup URLs:
 
-- https://archive.org
+- [https://archive.org](https://archive.org)
 
 
 
