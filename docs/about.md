@@ -32,6 +32,8 @@ Please cite Academic Torrents:
 
  - Cohen, Joseph Paul, and Henry Z. Lo. “Academic Torrents: A Community-Maintained Distributed Repository.” Annual Conference of the Extreme Science and Engineering Discovery Environment, 2014, http://doi.org/10.1145/2616498.2616528.
 
+[download bibtex file academictorrents.bib](https://academictorrents.com/academictorrents.bib)
+
 ```
 @inproceedings{Cohen2014,
 title = {Academic Torrents: A Community-Maintained Distributed Repository},
