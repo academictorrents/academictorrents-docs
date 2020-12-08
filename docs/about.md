@@ -32,6 +32,25 @@ Please cite Academic Torrents:
 
  - Cohen, Joseph Paul, and Henry Z. Lo. “Academic Torrents: A Community-Maintained Distributed Repository.” Annual Conference of the Extreme Science and Engineering Discovery Environment, 2014, http://doi.org/10.1145/2616498.2616528.
 
+```
+@inproceedings{Cohen2014,
+title = {Academic Torrents: A Community-Maintained Distributed Repository},
+author = {Cohen, Joseph Paul and Lo, Henry Z.},
+booktitle = {Annual Conference of the Extreme Science and Engineering Discovery Environment},
+doi = {10.1145/2616498.2616528},
+url = {http://doi.acm.org/10.1145/2616498.2616528},
+year = {2014}
+}
+
+@inproceedings{Lo2016,
+title = {Academic Torrents: Scalable Data Distribution},
+author = {Lo, Henry Z. and Cohen, Joseph Paul},
+booktitle = {Neural Information Processing Systems Challenges in Machine Learning (CiML) workshop},
+arxivId = {1603.04395},
+url = {http://arxiv.org/abs/1603.04395},
+year = {2016}
+}
+```
 
 
 ## Support
