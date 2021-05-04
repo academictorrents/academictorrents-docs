@@ -257,21 +257,27 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
+html_js_files = [
+    'js/custom.js',
+]
 
+display_github = True
+github_url = "https://github.com/academictorrents/academictorrents-docs"
 
 html_theme_options = {
     'analytics_id': 'UA-46214407-1',
     'analytics_anonymize_ip': False,
-    'logo_only': False,
+    'logo_only': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
-    'style_nav_header_background': 'white',
+    'style_nav_header_background': '#fcfcfc',
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
     'titles_only': False
+    
 }
