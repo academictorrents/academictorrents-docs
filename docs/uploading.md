@@ -10,6 +10,13 @@ Academic Torrents - How to upload for researchers
 
 [![](https://img.youtube.com/vi/PVsTwlYxGPo/0.jpg)](https://www.youtube.com/watch?v=PVsTwlYxGPo)
 
+## Piece sizes
+
+The piece size of a torrent is the size of the smallest chunk of the file that is sent between torrent clients. Valid sizes are powers of 2. If the total number of pieces is large then it will a lot of small transactions will have to happen when downloading and may require a lot of CPU because each piece needs to have its hash computed in order to verify it is correct. If the piece size is too large then the transmission may fail in the middle and require the entire piece to be sent again. 
+
+We recommend relativly large piece sizes (`8192` or `16384` bytes) because academic connections are typically good enough to not produce errors at this size and a very large file with a small piece size could yield so many pieces that it is a computational burden to download it.
+
+
 ## Backup URLs
 
 When a user downloads a torrent, in the event that BitTorrent is blocked or if there are no seed nodes, a list of "Backup URLs" can be maintained dynamically. These URLs can be updated on the website and then are injected into the torrent file when it is downloaded. These will bypass firewalls because it looks like regular web browsing. The experience is the same as downloading the torrent normally when using a BitTorrent client which supports (such as Transmission).
