@@ -261,9 +261,6 @@ html_js_files = [
     'js/custom.js',
 ]
 
-display_github = True
-github_url = "https://github.com/academictorrents/academictorrents-docs"
-
 html_theme_options = {
     'analytics_id': 'UA-46214407-1',
     'analytics_anonymize_ip': False,
@@ -280,4 +277,14 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
     
+}
+
+html_context = {
+    "display_github": True,
+    "github_user": "academictorrents", # Username
+    "github_repo": "academictorrents-docs", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/docs/", # Path in the checkout to the docs root
+    "last_updated": True,
+    #"commit": False,
 }
