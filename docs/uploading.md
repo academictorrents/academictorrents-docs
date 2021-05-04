@@ -6,7 +6,9 @@ Note that we don't host your data directly. Although we do manage a network of d
 
 ## Tutorials
 
-Academic Torrents - How to upload for researchers [https://www.youtube.com/watch?v=PVsTwlYxGPo](https://www.youtube.com/watch?v=PVsTwlYxGPo)
+Academic Torrents - How to upload for researchers
+
+[![](https://img.youtube.com/vi/PVsTwlYxGPo/0.jpg)](https://www.youtube.com/watch?v=PVsTwlYxGPo)
 
 ## Backup URLs
 
