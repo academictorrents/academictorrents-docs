@@ -1,6 +1,16 @@
 # About
 
-Academics Torrents was founded to address the needs of science in the era of big data. A scalable platform using BitTorrent which distributed the cost of hosting data was necessary in order to prevent the rise and fall of dataset hosting providers the erasure of the data they host. Researchers are empowered to mirror data they are working with and share large datasets without the large costs typically associated with commercial providers. 
+Academics Torrents was founded to address the needs of science in the era of big data. It is a scalable platform using BitTorrent which distributes the cost of hosting data in order to prevent the rise and fall of dataset hosting providers and the erasure of the data they host. Researchers are empowered to mirror data they are working with and share large datasets without the large costs typically associated with commercial providers. 
+
+Academic Torrents is a product of the [Institute for Reproducible Research](https://reproducibilityinstitute.org/) (a U.S. 501(c)3 nonprofit).
+
+## Team
+
+
+| ![](_static/img/joe.jpg) |  ![](_static/img/henry.jpg) |  ![](_static/img/nogueira.jpg) |
+|---|---|---|
+| Joseph Paul Cohen  | Henry Z Lo  |  Jonathan Nogueira |
+
 
 
 ## Mission
@@ -57,18 +67,18 @@ year = {2016}
 
 ## Support
 
-If you are having issues, please let us know.
-We have an issue tracker here: https://github.com/AcademicTorrents/academictorrents-docs/issues
-We have a contact email here: contact@academictorrents.com
-
-
-## Team
-
-* Joseph Paul Cohen
-* Henry Z Lo
-* Jonathan Nogueira
+If you are having issues, please let us know  
+We have an issue tracker here: [https://github.com/AcademicTorrents/academictorrents-docs/issues](https://github.com/AcademicTorrents/academictorrents-docs/issues)  
+We have a contact email here: [contact@academictorrents.com](mailto:contact@academictorrents.com)
 
 
 
+## Legal
+
+Please submit DMCA requests using this [Google form](https://docs.google.com/forms/d/1UZpffALavOF_X06QebmzbZZ7OyiGxjcn4vWhTQyHFPo/viewform)  
+We have never received an order to turn over user information.
+
+The following torrents have been removed due to DMCA requests:
+[https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea](https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea)
 
 
