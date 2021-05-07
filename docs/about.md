@@ -8,8 +8,8 @@ Academic Torrents is a product of the [Institute for Reproducible Research](http
 
 
 | ![](_static/img/joe.jpg) |  ![](_static/img/henry.jpg) |  ![](_static/img/nogueira.jpg) |
-|---|---|---|
-| Joseph Paul Cohen  | Henry Z Lo  |  Jonathan Nogueira |
+| :----: | :----: | :----: |
+| Joseph Paul Cohen  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henry Z Lo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  Jonathan Nogueira |
 
 
 
