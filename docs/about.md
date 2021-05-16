@@ -81,4 +81,22 @@ We have never received an order to turn over user information.
 The following torrents have been removed due to DMCA requests:
 [https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea](https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea)
 
+## Thanks
+
+### Python at-python library
+
+Martin Weiss
+
+### Smart Node Team 2014
+
+Jonathan Nogueira, Adrian Garay, Grigorii Lazari, James Lee, Luc Nguyen, Mani Jalilian, Edward Grigoryan
+
+### Java BitTorrent API Team 2015
+
+Alpesh Kothari, Gregory McPherran
+
+### Contributor
+
+akmalhisyam, Mantas Radzevi&#269;ius, Stefan Parviainen, Hanz Gumapac
+
 
