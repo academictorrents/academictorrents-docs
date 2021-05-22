@@ -13,7 +13,6 @@ Contents:
    :glob:
  
    about*
-   getting*
    faq*
    
    *
