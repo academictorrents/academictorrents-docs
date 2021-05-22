@@ -35,3 +35,21 @@ An example of a unsuccessful connection will look like:
 $ nc -v host2.academictorrents.com 25001
 nc: connectx to host2.academictorrents.com port 25001 (tcp) failed: Operation timed out
 ```
+
+
+## Transmission HTTP Response code 0 (No Response)
+
+This error seems to be associated with an erroneous default IPv6 configuration in Transmission cause the client to make requests incorrectly. The steps to fix this problem are as follows:
+
+Shut down transmission-daemon
+Edit the settings.json file (default location: /etc/transmission-daemon/settings.json)
+
+Change "bind-address-ipv6": "fe80::", 
+to "bind-address-ipv6": "::",
+
+Restart transmission
+
+
+
+
+
