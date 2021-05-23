@@ -4,6 +4,34 @@ One benefit of BitTorrent is the ability for the data to be dynamically mirrored
 
 We recommend using Transmission Daemon (Linux package `transmission-daemon`) because it runs as a background service and will automatically start with the system and is very stable. 
 
+
+## Transmission Daemon
+
+To set up Transmission Daemon on Debian/Ubuntu install the package:
+
+```
+sudo apt install transmission-daemon
+```
+
+Once it is installed a web server to control the client is available at `http://localhost:9091/`. Be sure to set a username and password in the configuration file. 
+
+
+In `/etc/transmission-daemon/settings.json` set:
+```
+"rpc-authentication-required": true,
+"rpc-password": "something",
+"rpc-username": "something",
+```
+
+
+Note you need to stop transmission before editing the settings file or your changes will be erased.
+```
+service transmission-daemon stop
+## edit /etc/transmission-daemon/settings.json
+service transmission-daemon start
+```
+
+
 ## "Hosted by" attribution
 
 When hosting a torrent you can have this be associated with your account in order to show your name and image. On the details page of each torrent a box shows users which are currently hosting data.
