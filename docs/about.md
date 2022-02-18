@@ -98,6 +98,6 @@ Alpesh Kothari, Gregory McPherran
 
 ### Contributor
 
-akmalhisyam, Mantas Radzevi&#269;ius, Stefan Parviainen, Hanz Gumapac
+akmalhisyam, Mantas Radzevi&#269;ius, Stefan Parviainen, Hanz Gumapac, Dennis Yassine
 
 
