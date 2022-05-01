@@ -34,6 +34,8 @@ service transmission-daemon start
 
 ## "Hosted by" attribution
 
+<img src="_static/img/hostedby.png" width="400px">
+
 When hosting a torrent you can have this be associated with your account in order to show your name and image. On the details page of each torrent a box shows users which are currently hosting data.
 
 In order for our system to associate your account with a torrent is a passkey that is embedded in the torrent file. This is inserted when you download a torrent while logged in. Some BitTorrent clients let you specify cookies used when requesting .torrent files. You can use your API key as the cookie to associate the torrent with your account.
