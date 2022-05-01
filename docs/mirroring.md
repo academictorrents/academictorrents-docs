@@ -1,5 +1,7 @@
 # Mirroring
 
+## Overview
+
 One benefit of BitTorrent is the ability for the data to be dynamically mirrored. You can become part of the Academic Torrents hosting infrastructure by "seeding" the data that you have downloaded. Your BitTorrent client will automatically register with our tracker (sending your IP address and port to connect to) when you open the BitTorrent file in it and the data you have downloaded will be available to be sent to others. 
 
 We recommend using Transmission Daemon (Linux package `transmission-daemon`) because it runs as a background service and will automatically start with the system and is very stable. 

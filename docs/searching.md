@@ -1,5 +1,7 @@
 # Searching
 
+## Overview
+
 The website provides the ability for humans to search the database. 
 However, for robots we provide a few XML URLs to help programatically navigate the database.
 

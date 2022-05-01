@@ -1,5 +1,7 @@
 # Uploading
 
+## Overview
+
 There are many different ways to put data on the site. Please contact us if you are unsure how to share your data. The upload form is here: [http://academictorrents.com/upload.php](http://academictorrents.com/upload.php)
 
 Note that we don't host your data directly. Although we do manage a network of donated servers. A torrent file is uploaded to the site and then hosting nodes (seeds) register with the tracker as places to download the data from. A Backup URL can be used in place of hosting the file using BitTorrent that will allow the benefits of our platform of servers that will mirror the data.
@@ -8,7 +10,8 @@ Note that we don't host your data directly. Although we do manage a network of d
 
 Academic Torrents - How to upload for researchers
 
-[![](https://img.youtube.com/vi/PVsTwlYxGPo/0.jpg)](https://www.youtube.com/watch?v=PVsTwlYxGPo)
+<iframe src="https://www.youtube.com/embed/PVsTwlYxGPo" style="max-width:100%"  width="640" height="480" frameborder=0 allowfullscreen></iframe>
+
 
 ## Piece sizes
 

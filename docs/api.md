@@ -1,5 +1,7 @@
 # API
 
+## Endpoint
+
 Our API is constantly improving based on feedback from users. Please contact us if you are planning to use the API so that we can make it feit your needs better. The basic api is shown below.
 
 Base API url: [https://academictorrents.com/apiv2/](https://academictorrents.com/apiv2/)

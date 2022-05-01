@@ -2,7 +2,7 @@
 
 A tutorial video about downloading
 
-[![](https://img.youtube.com/vi/mgONKmc52iI/0.jpg)](https://www.youtube.com/watch?v=mgONKmc52iI)
+<iframe src="https://www.youtube.com/embed/mgONKmc52iI" style="max-width:100%"  width="640" height="480" frameborder=0 allowfullscreen></iframe>
 
 
 We recommend the Transmission torrent client which supports all major operating systems: [https://www.transmissionbt.com/](https://www.transmissionbt.com/)
