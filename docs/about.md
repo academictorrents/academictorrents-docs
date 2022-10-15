@@ -4,6 +4,9 @@ Academics Torrents was founded to address the needs of science in the era of big
 
 Academic Torrents is a product of the [Institute for Reproducible Research](https://reproducibilityinstitute.org/) (a U.S. 501(c)3 nonprofit).
 
+Twitter: [@academictorrent](https://twitter.com/academictorrent)<br>
+Facebook: [AcademicTorrents](https://www.facebook.com/academictorrents/)
+
 ## Team
 
 
