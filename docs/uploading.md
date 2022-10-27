@@ -17,7 +17,7 @@ Academic Torrents - How to upload for researchers
 
 The piece size of a torrent is the size of the smallest chunk of the file that is sent between torrent clients. Valid sizes are powers of 2. If the total number of pieces is large then it will a lot of small transactions will have to happen when downloading and may require a lot of CPU because each piece needs to have its hash computed in order to verify it is correct. If the piece size is too large then the transmission may fail in the middle and require the entire piece to be sent again. 
 
-We recommend relativly large piece sizes (`8192` or `16384` bytes) because academic connections are typically good enough to not produce errors at this size and a very large file with a small piece size could yield so many pieces that it is a computational burden to download it.
+We recommend relativly large piece sizes (`8192` or `16384` KiB) because academic connections are typically good enough to not produce errors at this size and a very large file with a small piece size could yield so many pieces that it is a computational burden to download it.
 
 
 ## Backup URLs
