@@ -1,5 +1,14 @@
 # API
 
+## Database Access
+
+In order to programmatically search the database we prefer that you download the entire database (available at the following URL)
+and then search that file locally. This file is updated nightly. This approach allows us to scale by
+not performing the searches locally.
+
+Database: [https://academictorrents.com/database.xml](https://academictorrents.com/database.xml)
+
+
 ## Endpoint
 
 Our API is constantly improving based on feedback from users. Please contact us if you are planning to use the API so that we can make it feit your needs better. The basic api is shown below.
