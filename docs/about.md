@@ -49,21 +49,21 @@ Please cite Academic Torrents:
 
 ```
 @inproceedings{Cohen2014,
-title = {Academic Torrents: A Community-Maintained Distributed Repository},
-author = {Cohen, Joseph Paul and Lo, Henry Z.},
-booktitle = {Annual Conference of the Extreme Science and Engineering Discovery Environment},
-doi = {10.1145/2616498.2616528},
-url = {http://doi.acm.org/10.1145/2616498.2616528},
-year = {2014}
+ title = {Academic Torrents: A Community-Maintained Distributed Repository},
+ author = {Cohen, Joseph Paul and Lo, Henry Z.},
+ booktitle = {Annual Conference of the Extreme Science and Engineering Discovery Environment},
+ doi = {10.1145/2616498.2616528},
+ url = {http://doi.acm.org/10.1145/2616498.2616528},
+ year = {2014}
 }
 
 @inproceedings{Lo2016,
-title = {Academic Torrents: Scalable Data Distribution},
-author = {Lo, Henry Z. and Cohen, Joseph Paul},
-booktitle = {Neural Information Processing Systems Challenges in Machine Learning (CiML) workshop},
-arxivId = {1603.04395},
-url = {http://arxiv.org/abs/1603.04395},
-year = {2016}
+ title = {Academic Torrents: Scalable Data Distribution},
+ author = {Lo, Henry Z. and Cohen, Joseph Paul},
+ booktitle = {Neural Information Processing Systems Challenges in Machine Learning (CiML) workshop},
+ arxivId = {1603.04395},
+ url = {http://arxiv.org/abs/1603.04395},
+ year = {2016}
 }
 ```
 
@@ -90,18 +90,30 @@ The following torrents have been removed due to DMCA requests:
 
 ### Python at-python library
 
-Martin Weiss
+- Martin Weiss
 
 ### Smart Node Team 2014
 
-Jonathan Nogueira, Adrian Garay, Grigorii Lazari, James Lee, Luc Nguyen, Mani Jalilian, Edward Grigoryan
+- Jonathan Nogueira
+- Adrian Garay
+- Grigorii Lazari
+- James Lee
+- Luc Nguyen
+- Mani Jalilian
+- dward Grigoryan
 
 ### Java BitTorrent API Team 2015
 
-Alpesh Kothari, Gregory McPherran
+- Alpesh Kothari
+- Gregory McPherran
 
-### Contributor
+### Contributors
 
-akmalhisyam, Mantas Radzevi&#269;ius, Stefan Parviainen, Hanz Gumapac, Dennis Yassine
+- akmalhisyam
+- Mantas Radzevi&#269;ius
+- Stefan Parviainen
+- Hanz Gumapac
+- Dennis Yassine
+- Khan Janny (@Reboot_ex)
 
 
