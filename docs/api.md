@@ -2,9 +2,9 @@
 
 ## Database Access
 
-In order to programmatically search the database we prefer that you download the entire database (available at the following URL)
-and then search that file locally. This file is updated nightly. This approach allows us to scale by
-not performing the searches locally.
+To ensure efficient and effective database searches, we recommend downloading the entire database (available at the following URL) and conducting searches on the locally saved file. 
+This file is regularly updated on a nightly basis, allowing us to optimize performance and scalability by avoiding local searches.
+
 
 Database: [https://academictorrents.com/database.xml](https://academictorrents.com/database.xml)
 

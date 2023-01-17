@@ -11,18 +11,20 @@ Note that we don't host your data directly. Although we do manage a network of d
 Academic Torrents - How to upload for researchers
 
 <iframe src="https://www.youtube.com/embed/PVsTwlYxGPo" style="max-width:100%"  width="640" height="480" frameborder=0 allowfullscreen></iframe>
-
+<br><br>
 
 ## Piece sizes
 
 The piece size of a torrent is the size of the smallest chunk of the file that is sent between torrent clients. Valid sizes are powers of 2. If the total number of pieces is large then it will a lot of small transactions will have to happen when downloading and may require a lot of CPU because each piece needs to have its hash computed in order to verify it is correct. If the piece size is too large then the transmission may fail in the middle and require the entire piece to be sent again. 
 
-We recommend relativly large piece sizes (`8192` or `16384` KiB) because academic connections are typically good enough to not produce errors at this size and a very large file with a small piece size could yield so many pieces that it is a computational burden to download it.
+We recommend relatively large piece sizes (`8192` or `16384` KiB) because academic connections are typically good enough to not produce errors at this size and a very large file with a small piece size could yield so many pieces that it is a computational burden to download it.
 
 
 ## Backup URLs
 
-When a user downloads a torrent, in the event that BitTorrent is blocked or if there are no seed nodes, a list of "Backup URLs" can be maintained dynamically. These URLs can be updated on the website and then are injected into the torrent file when it is downloaded. These will bypass firewalls because it looks like regular web browsing. The experience is the same as downloading the torrent normally when using a BitTorrent client which supports (such as Transmission).
+![](_static/img/webseeds.png)
+
+When a user downloads a torrent, in the event that BitTorrent is blocked or if there are no seed nodes, a list of Backup URLs (also called WedSeeds) can be maintained dynamically. These URLs can be updated on the website and then are injected into the torrent file when it is downloaded. These will bypass firewalls because it looks like regular web browsing. The experience is the same as downloading the torrent normally when using a BitTorrent client which supports (such as Transmission).
 
 A "Backup URL" which is an HTTP URL linking to the data file (or if it is a directory then the URL minus the folder name). 
 

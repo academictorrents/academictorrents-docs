@@ -7,7 +7,7 @@ However, for robots we provide a few XML URLs to help programatically navigate t
 
 For a standard RSS feed of recent entries there is:
 
-https://academictorrents.com/rss.xml
+[https://academictorrents.com/rss.xml](https://academictorrents.com/rss.xml)
 
 
 For enable users programmatically search the entire database we provide an XML file in RSS format
@@ -15,7 +15,7 @@ containing all public entries. The expectation here is that you will download th
 and then search offline. It contains the torrent title, description, the URL of the details page,
 and the infohash which can be used to construct a magnet link for the torrent.
 
-https://academictorrents.com/database.xml
+[https://academictorrents.com/database.xml](https://academictorrents.com/database.xml)
 
 Some example output:
 

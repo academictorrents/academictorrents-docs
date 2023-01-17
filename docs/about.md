@@ -1,6 +1,11 @@
 # About
 
-Academics Torrents was founded to address the needs of science in the era of big data. It is a scalable platform using BitTorrent which distributes the cost of hosting data in order to prevent the rise and fall of dataset hosting providers and the erasure of the data they host. Researchers are empowered to mirror data they are working with and share large datasets without the large costs typically associated with commercial providers. 
+Academics Torrents was established to meet the demands of science in the age of big data. 
+It utilizes a scalable BitTorrent platform that distributes the burden of hosting data, 
+eliminating the risk of data loss due to the rise and fall of dataset hosting providers. 
+Researchers are empowered to replicate data they are working with and share large datasets 
+without incurring the high costs usually associated with commercial providers.
+
 
 Academic Torrents is a product of the [Institute for Reproducible Research](https://reproducibilityinstitute.org/) (a U.S. 501(c)3 nonprofit).
 
@@ -41,6 +46,7 @@ joseph /at/ josephpcohen.com
 ## Cite
 
 Please cite Academic Torrents:
+
  - Henry Z. Lo. and Cohen, Joseph Paul “Academic Torrents: Scalable Data Distribution.” Neural Information Processing Systems Challenges in Machine Learning (CiML) Workshop, 2016, http://arxiv.org/abs/1603.04395.
 
  - Cohen, Joseph Paul, and Henry Z. Lo. “Academic Torrents: A Community-Maintained Distributed Repository.” Annual Conference of the Extreme Science and Engineering Discovery Environment, 2014, http://doi.org/10.1145/2616498.2616528.
