@@ -14,7 +14,7 @@ We recommend the Transmission torrent client which supports all major operating 
 We recommend [aria2c](https://aria2.github.io/). Specify a torrent URL or the magnet link to download. Here is an example usage:
 
 ```bash
-aria2c --seed-ratio=0 --max-overall-download-limit=10M --file-allocation=none https://academictorrents.com/download/c5af268ec55cf2d3b439e7311ad43101ba8322eb.torrent
+aria2c --seed-time=0 --max-overall-download-limit=10M --file-allocation=none https://academictorrents.com/download/c5af268ec55cf2d3b439e7311ad43101ba8322eb.torrent
 ```
 
 Useful switches:
