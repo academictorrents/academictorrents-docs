@@ -57,7 +57,7 @@ To use the above API Key you can use curl. Curl is a simple way of sending data 
 The --data tag must be present to instruct curl that this is a POST request and not a GET request.
 
 ```
-$ curl http://academictorrents.com/apiv2/test -b "uid=14;pass=71135221ceb8b5279cd15150d2126dcb" --data ""
+$ curl https://academictorrents.com/apiv2/test -b "uid=14;pass=71135221ceb8b5279cd15150d2126dcb" --data ""
 Welcome to the API test!
 You have made a POST request.
 API Key Received: uid=14&pass=71135221ceb8b5279cd15150d2126dcb
@@ -68,7 +68,7 @@ Everything seems fine, You should be able to use the API
 You can also put the API Key directly in the POST request via the --data argument
 
 ```
-$ curl http://academictorrents.com/apiv2/test --data "uid=14&pass=71135221ceb8b5279cd15150d2126dcb"
+$ curl https://academictorrents.com/apiv2/test --data "uid=14&pass=71135221ceb8b5279cd15150d2126dcb"
 Welcome to the API test!
 You have made a POST request.
 API Key Received: uid=14&pass=71135221ceb8b5279cd15150d2126dcb
@@ -79,7 +79,7 @@ Everything seems fine, You should be able to use the API
 You can also put the API Key directly in the GET request.
 
 ```
-$ curl http://academictorrents.com/apiv2/test?uid=14&pass=71135221ceb8b5279cd15150d2126dcb"
+$ curl https://academictorrents.com/apiv2/test?uid=14&pass=71135221ceb8b5279cd15150d2126dcb"
 Welcome to the API test!
 You have made a GET request.
 API Key Received: uid=14&pass=71135221ceb8b5279cd15150d2126dcb
@@ -114,7 +114,7 @@ post_params = {
 }
 
 data = urlencode(post_params).encode('utf-8')
-req = Request('http://academictorrents.com/apiv2/entry', data)
+req = Request('https://academictorrents.com/apiv2/entry', data)
 
 response = urlopen(req)
 ```
