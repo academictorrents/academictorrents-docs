@@ -1,15 +1,14 @@
 # BitTorrent
 
-BitTorrent is a peer-to-peer (P2P) file-sharing protocol that allows users to distribute large files efficiently. It works by breaking a file into small pieces, which are then distributed among a network of users, or "peers." Each peer then shares these pieces with other peers, allowing the file to be downloaded quickly from multiple sources at once.
+BitTorrent is a peer-to-peer (P2P) file-sharing protocol that enables efficient distribution of large files. It achieves this by breaking files into smaller pieces and distributing them among a network of users, known as "peers." Each peer shares these pieces with others, allowing for simultaneous downloading from multiple sources.
 
-The protocol uses a central tracker, which keeps track of the location of all the pieces of a file and the peers that are currently sharing them. When a user wants to download a file, they connect to a tracker (such as Academic Torrents), which provides them with a list of peers that have the file. The user then connects to these peers and begins downloading the pieces of the file.
+The protocol relies on a central tracker, which keeps track of the location of file pieces and the peers sharing them. When a user wants to download a file, they connect to a tracker (such as Academic Torrents) to obtain a list of peers with the file. The user then connects to these peers and starts downloading the file pieces.
 
-One of the key features of BitTorrent is that it is a "swarm-based" protocol, meaning that as more users begin downloading a file, the more available sources there are for other users to download from. This helps to ensure that the download process remains fast and reliable, even as the number of users increases.
+One of BitTorrent's key features is its "swarm-based" nature. As more users download a file, the number of available sources for other users to download from increases. This ensures fast and reliable downloads, even with a growing number of users.
 
-BitTorrent has the advantage of being decentralized, meaning that there is no central server or authority controlling the distribution of files. This means that there are no single points of failure that could cause the network to fail.
+BitTorrent is decentralized, meaning there is no central server or authority controlling file distribution. This eliminates single points of failure that could disrupt the network.
 
-There are many open source BitTorrent clients available. These clients handle the details of connecting to trackers, downloading pieces of files, and managing the upload and download of data. This diversity and accessibility of clients mitigates the risk of a single entity gaining monopolistic control and potentially imposing charges or restrictions on usage.
-
+Numerous open-source BitTorrent clients are available. These clients handle connecting to trackers, downloading file pieces, and managing data upload and download. This diversity and accessibility of clients prevent a single entity from gaining monopolistic control and imposing charges or restrictions on usage.
 
 ## Pieces
 
@@ -30,11 +29,9 @@ When a corrupt piece is detected, the BitTorrent client will typically mark the 
 
 In BitTorrent, a "tracker" is a server that keeps track of the location of all the pieces of a file and the peers that are currently sharing them. When a user wants to download a file, they connect to the tracker, which provides them with a list of peers that have the file. The user then connects to these peers and begins downloading the pieces of the file. The requesting user is added to the tracker and will be shared on subsequent requests.
 
-The tracker plays a crucial role in the BitTorrent network, as it is responsible for coordinating the distribution of files among the peers. It does this by maintaining a list of all the peers that are currently sharing a file and what percent of the file they have. Peers connect with each other to determine what pieces they have.
+The tracker plays a crucial role in the BitTorrent network by coordinating the distribution of files among peers. It maintains a list of peers sharing a file and the percentage of the file they have. Peers connect with each other to determine which pieces they have.
 
-In recent years, some clients have adopted a technique known as "trackerless" or "DHT" (Distributed Hash Table) which eliminates the need for a central tracker and relies on a distributed system of nodes to keep track of the peers and files, this makes the network more resilient.
-
-
+In recent years, some clients have adopted a technique known as "trackerless" or "DHT" (Distributed Hash Table). This technique eliminates the need for a central tracker and relies on a distributed system of nodes to keep track of peers and files, making the network more resilient.
 
 
 

@@ -12,9 +12,9 @@ You should see the failure message `"d14:failure reason24:Invalid info_hash (0 -
 
 ## People cannot connect to your server
 
-For the best mirroring/seeding performance the port that your BitTorrent client is listening on should be accessible from the internet. Often this requires allowing a port in a firewall or port forwarding in a router.
+To ensure optimal mirroring/seeding performance, it is important that the port your BitTorrent client is listening on is accessible from the internet. This may require allowing a port in a firewall or setting up port forwarding in a router.
 
-On the Technical tab of the Details page you see if the tracker thinks the port of your client is open. In the `Connect` column it will say `Yes` if the tracker can connect to the port.  
+You can check if the tracker can connect to your client's port by looking at the `Connect` column on the Technical tab of the Details page. If it says `Yes`, the tracker can successfully connect to the port.
 
 You can verify this yourself from a computer outside of your network with the following command:
 

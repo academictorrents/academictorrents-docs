@@ -5,7 +5,7 @@ A tutorial video about downloading
 <iframe src="https://www.youtube.com/embed/mgONKmc52iI" style="max-width:100%"  width="640" height="480" frameborder=0 allowfullscreen></iframe>
 
 
-We recommend the Transmission torrent client which supports all major operating systems: [https://www.transmissionbt.com/](https://www.transmissionbt.com/)
+We recommend using the Transmission torrent client, which supports all major operating systems. You can download it from [https://www.transmissionbt.com/](https://www.transmissionbt.com/).
 
 
 ## From the command line

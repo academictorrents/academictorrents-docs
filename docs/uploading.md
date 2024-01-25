@@ -2,9 +2,9 @@
 
 ## Overview
 
-There are many different ways to put data on the site. Please contact us if you are unsure how to share your data. The upload form is here: [http://academictorrents.com/upload.php](http://academictorrents.com/upload.php)
+There are multiple ways to share your data on our site. If you're unsure about the process, please reach out to us for assistance. You can use the upload form available at [https://academictorrents.com/upload.php](https://academictorrents.com/upload.php).
 
-Note that we don't host your data directly. Although we do manage a network of donated servers. A torrent file is uploaded to the site and then hosting nodes (seeds) register with the tracker as places to download the data from. A Backup URL can be used in place of hosting the file using BitTorrent that will allow the benefits of our platform of servers that will mirror the data.
+It's important to note that we don't directly host your data. However, we manage a network of donated servers. When you upload a torrent file to our site, hosting nodes (seeds) register with the tracker to provide download locations for the data. Alternatively, you can use a Backup URL instead of hosting the file using BitTorrent. This allows you to take advantage of our server platform, where the data will be mirrored.
 
 ## Tutorials
 
