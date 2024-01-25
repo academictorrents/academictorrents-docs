@@ -47,8 +47,5 @@ Most webservers will support this (such as Apache and NGNIX) but less featured w
 Almost all paid providers work work perfectly as Backup URLs while almost all free hosting provders (Google Drive, Dropbox) do not work as Backup URLs. Here is a list of free providers which will provide HTTP URLs that can be used as Backup URLs:
 
 - [https://archive.org](https://archive.org)
-
-
-
-
+- [https://zenodo.org/](https://zenodo.org/) (only works for single files torrents)
 
