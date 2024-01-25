@@ -88,9 +88,10 @@ Please submit DMCA requests using this [Google form](https://docs.google.com/for
 We have never received an order to turn over user information.
 
 The following torrents have been removed due to DMCA requests:
-[https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea](https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea)
-[https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb](https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb)
-[https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a](https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a)
+- [https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea](https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea)
+- [https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb](https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb)
+- [https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a](https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a)
+- [https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40](https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40)
 
 ## Thanks
 
