@@ -92,6 +92,7 @@ The following torrents have been removed due to DMCA requests:
 - [https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb](https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb)
 - [https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a](https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a)
 - [https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40](https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40)
+- [https://academictorrents.com/details/0d366035664fdf51cfbe9f733953ba325776e667](https://academictorrents.com/details/0d366035664fdf51cfbe9f733953ba325776e667)
 
 ## Thanks
 
