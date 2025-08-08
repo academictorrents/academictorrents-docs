@@ -17,14 +17,14 @@ Base API url: [https://academictorrents.com/apiv2/](https://academictorrents.com
 
 ```
 ===Entries===
-GET /apiv2/entry/INFOHASH  -- retreive data about an INFOHASH
+GET /apiv2/entry/INFOHASH  -- retrieve data about an INFOHASH
 POST /apiv2/entry  -- upload an entry
-POST /apiv2/entry/INFOHASH  -- modity an entry
+POST /apiv2/entry/INFOHASH  -- modify an entry
 
 ===Collections===
-POST /apiv2/collection  -- create an collection 
-POST /apiv2/collection/collection-name  -- update an collection 
-POST /apiv2/collection/collection-name/delete  -- delete an collection 
+POST /apiv2/collection  -- create a collection 
+POST /apiv2/collection/collection-name  -- update a collection 
+POST /apiv2/collection/collection-name/delete  -- delete a collection 
 POST /apiv2/collection/collection-name/add  -- add an item to a collection 
 POST /apiv2/collection/collection-name/remove  -- remove an item from a collection 
 
@@ -33,7 +33,7 @@ GET /apiv2/test  -- test access rights
 ```
 
 
-The API fields for uploading a entry to Academic Torrents are shown below. 
+The API fields for uploading an entry to Academic Torrents are shown below. 
 To upload a file you must send a POST request to https://academictorrents.com/apiv2/entry with the following parameters as well as your API Key.
 
 ```

@@ -13,6 +13,7 @@ Contents:
    :glob:
  
    about*
+   getting-started*
    faq*
    
    *
