@@ -1,6 +1,6 @@
 # About
 
-Academics Torrents was established to meet the demands of science in the age of big data. 
+Academic Torrents was established to meet the demands of science in the age of big data. 
 It utilizes a scalable BitTorrent platform that distributes the burden of hosting data, 
 eliminating the risk of data loss due to the rise and fall of dataset hosting providers. 
 Researchers are empowered to replicate data they are working with and share large datasets 
