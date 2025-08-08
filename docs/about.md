@@ -87,12 +87,7 @@ We have a contact email here: [contact@academictorrents.com](mailto:contact@acad
 Please submit DMCA requests using this [Google form](https://docs.google.com/forms/d/1UZpffALavOF_X06QebmzbZZ7OyiGxjcn4vWhTQyHFPo/viewform)  
 We have never received an order to turn over user information.
 
-The following torrents have been removed due to DMCA requests:
-- [https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea](https://academictorrents.com/details/5daa22057577521a378b71e0f0de6a934bd5c2ea)
-- [https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb](https://academictorrents.com/details/a528703c7354567183da4aafaea12ce77e47f6bb)
-- [https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a](https://academictorrents.com/details/3374eb064817a8edd12167b6e9e1300b13d9f08a)
-- [https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40](https://academictorrents.com/details/85672347c6f13f6d2909f756e86217ce1b88fa40)
-- [https://academictorrents.com/details/0d366035664fdf51cfbe9f733953ba325776e667](https://academictorrents.com/details/0d366035664fdf51cfbe9f733953ba325776e667)
+View DMCA requests here: [https://academictorrents.com/dmca.php]{https://dev.academictorrents.com/dmca.php}
 
 ## Thanks
 
