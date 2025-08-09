@@ -87,7 +87,7 @@ We have a contact email here: [contact@academictorrents.com](mailto:contact@acad
 Please submit DMCA requests using this [Google form](https://docs.google.com/forms/d/1UZpffALavOF_X06QebmzbZZ7OyiGxjcn4vWhTQyHFPo/viewform)  
 We have never received an order to turn over user information.
 
-View DMCA requests here: [https://academictorrents.com/dmca.php](https://dev.academictorrents.com/dmca.php)
+View DMCA requests here: [https://academictorrents.com/dmca.php](https://academictorrents.com/dmca.php)
 
 ## Thanks
 
